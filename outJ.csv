@@ -1,0 +1,17 @@
+Tip Matrice,Nr threads,Timp executie;;;;COLOANE
+,4,49.2;N=M=10;n=m=3;secvential;
+,4,52.2;N=M=10;n=m=3;4 threads;
+,1,52.8;N=M=1000;n=m=5;1 thread;
+,2,53;N=M=1000;n=m=5;2 threads;
+,4,53;N=M=1000;n=m=5;4 threads;
+,8,53;N=M=1000;n=m=5;8 threads;
+,16,52.9;N=M=1000;n=m=5;16 threads;
+;;;;LINII
+,4,48;N=M=10;n=m=3;secvential;
+,4,54;N=M=10;n=m=3;4 threads;
+,4,52.9;N=M=1000;n=m=5;secvential;
+,1,52.9;N=M=1000;n=m=5;1 thread;
+,2,53;N=M=1000;n=m=5;2 threads;
+,4,53;N=M=1000;n=m=5;4 threads;
+,8,53;N=M=1000;n=m=5;8 threads;
+,16,53;N=M=1000;n=m=5;16 threads;
